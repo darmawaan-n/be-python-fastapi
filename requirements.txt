@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+mysql-connector-python
+sqlalchemy
+alembic
+pydantic
+PyMySQL
+Faker
+cryptography
+psycopg2
